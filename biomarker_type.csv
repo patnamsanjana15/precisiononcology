@@ -1,0 +1,11 @@
+biomarker_type_id,type_name,description
+BT001,Gene,Genetic material involved in cancer susceptibility.
+BT002,Receptor,Protein on the surface of cells involved in signaling.
+BT003,Receptor,Receptors involved in cell communication and cancer growth.
+BT004,Receptor,Signaling proteins that contribute to tumor growth.
+BT005,Protein,Proteins involved in the regulation of cancer cell functions.
+BT006,Gene,Mutations in genetic sequences associated with cancer risk.
+BT007,Gene,Genetic material associated with drug resistance in cancer cells.
+BT008,Gene,Gene mutations linked to cancer cell growth and survival.
+BT009,Gene,DNA mutations related to increased cancer susceptibility.
+BT010,Protein,Proteins involved in cell division and tumor progression.

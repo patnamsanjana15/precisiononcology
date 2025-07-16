@@ -1,0 +1,31 @@
+test_id,patient_id,test_type,test_results
+LT001,P004,Blood Test,Elevated levels of CA-125.
+LT002,P024,Blood Test,High white blood cell count detected.
+LT003,P030,Blood Test,Elevated liver enzymes.
+LT004,P010,Blood Test,Presence of abnormal cells in the blood.
+LT005,P028,Biopsy,Malignant cells detected in tissue sample.
+LT006,P024,Genetic Test,"BRCA1 mutation identified, patient at risk for breast and ovarian cancer."
+LT007,P010,Imaging Test,"CT scan indicates no signs of metastasis, localized tumor present."
+LT008,P027,Blood Test,"Normal blood profile, no immediate signs of concern."
+LT009,P010,Urine Test,Presence of abnormal proteins detected in urine.
+LT010,P004,Biopsy,"Malignant cells detected in tissue, diagnosis of invasive carcinoma."
+LT011,P018,Blood Test,Elevated tumor markers associated with colon cancer detected in blood test.
+LT012,P016,Genetic Test,"Genetic test reveals TP53 mutation, linked to higher cancer risk."
+LT013,P027,Imaging Test,"MRI shows no metastasis, clear lung tissue."
+LT014,P004,Blood Test,"Elevated white blood cell count in blood, indicates possible infection."
+LT015,P004,Blood Test,"Abnormal ECG results detected, patient referred for further evaluation."
+LT016,P016,Blood Test,"Cancer cells detected in biopsy sample, patient recommended for chemotherapy."
+LT017,P002,Genetic Test,"Genetic analysis reveals mutation in the KRAS gene, affecting drug response."
+LT018,P011,Urine Test,Presence of abnormal proteins in urine indicates possible kidney dysfunction.
+LT019,P022,Imaging Test,"CT scan shows lymph node enlargement, suggesting potential malignancy."
+LT020,P030,Blood Test,"Increased AFP levels detected, indicating possible liver cancer."
+LT021,P021,Urine Test,"Urine test reveals proteinuria, indicative of possible kidney issues."
+LT022,P013,Blood Test,"Blood test results indicate possible leukemia, referred for bone marrow biopsy."
+LT023,P003,Blood Test,"Breast biopsy shows signs of invasive ductal carcinoma, high grade."
+LT024,P026,Biopsy,"Genetic analysis indicates EGFR mutation, indicating responsiveness to targeted therapy."
+LT025,P007,Blood Test,"Imaging test reveals early-stage tumors in the lung, surgery recommended."
+LT026,P008,Genetic Test,"Blood test shows elevated PSA levels, indicative of prostate cancer."
+LT027,P013,Imaging Test,"Genetic sequencing reveals a rare mutation in the HER2 gene, affecting treatment options."
+LT028,P004,Blood Test,"Normal CT scan results, no indication of new tumors."
+LT029,P018,Genetic Test,Normal blood pressure and heart rate observed.
+LT030,P010,Blood Test,Clear X-ray results for the chest.

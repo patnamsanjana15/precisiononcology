@@ -1,0 +1,31 @@
+condition_id,patient_id,condition_description,diagnosis_date
+HC001,P028,Hypertension,2025-01-26
+HC002,P025,Hypertension,2024-02-05
+HC003,P002,Diabetes,2024-11-20
+HC004,P017,Hypertension,2025-03-03
+HC005,P013,Diabetes,2024-03-03
+HC006,P016,Diabetes,2023-05-13
+HC007,P019,Lung Cancer,2023-10-30
+HC008,P017,Lung Cancer,2024-05-13
+HC009,P010,Lung Cancer,2024-04-23
+HC010,P025,Breast Cancer,2024-02-20
+HC011,P020,Diabetes,2025-03-25
+HC012,P030,Lung Cancer,2024-12-10
+HC013,P010,Breast Cancer,2025-01-15
+HC014,P024,Breast Cancer,2023-12-03
+HC015,P029,Diabetes,2024-04-16
+HC016,P016,Breast Cancer,2024-01-15
+HC017,P012,Hypertension,2024-07-08
+HC018,P011,Lung Cancer,2025-03-04
+HC019,P018,Hypertension,2025-03-17
+HC020,P015,Diabetes,2023-09-28
+HC021,P002,Breast Cancer,2024-05-08
+HC022,P003,Hypertension,2023-07-29
+HC023,P023,Breast Cancer,2023-11-16
+HC024,P020,Hypertension,2023-07-29
+HC025,P027,Diabetes,2024-11-19
+HC026,P008,Diabetes,2023-06-24
+HC027,P023,Breast Cancer,2024-08-04
+HC028,P007,Lung Cancer,2024-12-22
+HC029,P008,Lung Cancer,2023-10-23
+HC030,P026,Hypertension,2025-03-18

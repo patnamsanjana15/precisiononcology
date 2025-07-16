@@ -1,0 +1,31 @@
+histopath_id,patient_id,pathological_findings,diagnosis
+H001,P027,"Malignant cells found in the tissue, invasive carcinoma detected.",Malignant
+H002,P021,"No malignant cells detected, benign lesion observed.",Benign
+H003,P004,"Tumor tissue detected, indication of potential metastasis.",Suspicious
+H004,P009,"Cancerous cells found, indicative of advanced stage disease.",Malignant
+H005,P002,"Benign cystic structures found, no signs of malignancy.",Benign
+H006,P007,"High-grade carcinoma detected in tissue biopsy, requires treatment.",Malignant
+H007,P009,"Mild dysplasia observed in tissue, further testing recommended.",Suspicious
+H008,P011,Presence of necrotic tissue observed in the sample.,Negative
+H009,P019,"Inflammatory cells detected in tissue, no malignancy confirmed.",Benign
+H010,P028,"Fibrotic tissue observed, benign condition confirmed.",Malignant
+H011,P023,"Cancerous growth observed, needs immediate surgical intervention.",Malignant
+H012,P021,"No cancerous changes detected, normal tissue morphology.",Negative
+H013,P023,"Malignant transformation identified, high-grade tumor found.",Malignant
+H014,P029,"Benign neoplasm detected, no treatment required.",Benign
+H015,P021,"Presence of precancerous cells, high-risk condition identified.",Suspicious
+H016,P012,"Tumor markers elevated, potential for invasive cancer.",Suspicious
+H017,P006,"Abnormal cell growth detected, suspicious findings, biopsy required.",Malignant
+H018,P013,"Lymphatic invasion confirmed, high probability of metastasis.",Malignant
+H019,P010,"Clear cell carcinoma detected, malignancy confirmed.",Benign
+H020,P005,"Inflammatory response noted, no malignancy found.",Malignant
+H021,P009,"Atypical cells observed, further investigation needed.",Negative
+H022,P011,"Non-malignant fibrous tissue observed, benign condition confirmed.",Benign
+H023,P023,"Cancer cells present, chemotherapy recommended.",Malignant
+H024,P011,"Hyperplasia observed in the tissue sample, no malignancy.",Malignant
+H025,P002,"Lymph node involvement detected, cancer spread suspected.",Suspicious
+H026,P009,"Chronic inflammation detected, no signs of malignancy.",Suspicious
+H027,P005,"Moderate dysplasia found, biopsy recommended for further study.",Benign
+H028,P010,"Cancerous tissue detected with clear margins, successful excision.",Benign
+H029,P013,"Malignant tumor observed, high risk of recurrence.",Malignant
+H030,P005,"Clear pathological report, no further concerns.",Malignant

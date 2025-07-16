@@ -1,0 +1,31 @@
+trial_id,name,phase,eligibility_criteria
+CT001,Cancer Treatment Trial 1,Phase II,Participants aged 18-65 with a diagnosis of advanced cancer
+CT002,Heart Disease Research Trial,Phase III,"Adults with heart disease, aged 40-70"
+CT003,Lung Cancer Vaccine Trial,Phase I,"Lung cancer patients aged 18-75, non-smokers preferred"
+CT004,Alzheimer's Disease Treatment Study,Phase III,"Age 55-80, diagnosed with Alzheimer's disease"
+CT005,Diabetes Medication Clinical Trial,Phase III,"Adults with Type 2 Diabetes, HbA1c between 7-10%"
+CT006,Hypertension Treatment Study,Phase II,"Aged 30-70, diagnosed with hypertension, BP > 140/90"
+CT007,New Cancer Drug Trial,Phase I,"Lung cancer patients with relapsed disease, age 18-75"
+CT008,Arthritis Treatment Study,Phase III,Adults with moderate to severe osteoarthritis in knee or hip
+CT009,Breast Cancer Drug Study,Phase II,"Patients with newly diagnosed breast cancer, aged 18-65"
+CT010,Chronic Pain Relief Trial,Phase III,"Adults with chronic pain, including fibromyalgia or neuropathic pain"
+CT011,COVID-19 Vaccine Trial,Phase II,"Age 18-65, confirmed COVID-19 infection, mild to moderate symptoms"
+CT012,Migraine Treatment Study,Phase I,"Age 18-50, diagnosed with migraine, 4 or more attacks per month"
+CT013,New Antiviral Drug Trial,Phase II,"Adults with chronic viral infections, including HIV, hepatitis C"
+CT014,Obesity Research Study,Phase III,"Obesity (BMI > 30), aged 18-60, with no major comorbidities"
+CT015,Multiple Sclerosis Drug Study,Phase II,"Age 18-80, diagnosed with multiple sclerosis, relapsing form"
+CT016,Lung Cancer Chemotherapy Trial,Phase I,"Cancer patients, specifically lung cancer, in need of chemotherapy"
+CT017,Parkinson's Disease Study,Phase III,"Age 45-75, diagnosed with Parkinson's Disease"
+CT018,Vaccination for Cancer Prevention,Phase I,Cancer prevention vaccine trial for adults aged 18-65
+CT019,Diabetes Management Trial,Phase II,"Adults diagnosed with Type 2 Diabetes, with a BMI > 30"
+CT020,Chronic Kidney Disease Study,Phase III,"Chronic kidney disease patients aged 18-65, in need of therapy"
+CT021,Heart Failure Treatment Study,Phase I,"Heart failure patients, aged 50-80, with stable condition"
+CT022,Asthma Medication Trial,Phase II,"Age 18-70, diagnosed with asthma, moderate to severe symptoms"
+CT023,HIV Vaccine Clinical Trial,Phase III,"HIV patients aged 18-60, with controlled viral load"
+CT024,Cystic Fibrosis Treatment Study,Phase II,"Cystic fibrosis patients, aged 18-40, moderate symptoms"
+CT025,Osteoarthritis Drug Trial,Phase I,Patients with severe osteoarthritis in knee or hip joints
+CT026,Epilepsy Medication Research,Phase II,"Adults with epilepsy, uncontrolled seizures despite treatment"
+CT027,Sleep Disorder Clinical Trial,Phase III,Participants with sleep apnea or chronic insomnia
+CT028,Blood Cancer Study,Phase I,"Blood cancer patients, diagnosed with leukemia or lymphoma"
+CT029,Multiple Myeloma Drug Trial,Phase II,"Age 18-65, diagnosed with multiple myeloma, relapsed disease"
+CT030,Gene Therapy for Cancer,Phase III,"Patients with cancer, gene therapy as a treatment option"

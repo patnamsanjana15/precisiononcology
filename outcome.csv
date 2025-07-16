@@ -1,0 +1,31 @@
+outcome_id,treatment_id,trial_id,survival_rate,side_effects,effectiveness
+O001,T001,CT001,0.63,"Fatigue, Nausea",Low
+O002,T002,CT002,0.8,"Headaches, Dizziness",High
+O003,T003,CT003,0.17,"Hair Loss, Nausea",Low
+O004,T004,CT004,0.72,"Fatigue, Insomnia",Low
+O005,T005,CT005,0.52,"Nausea, Loss of Appetite",Low
+O006,T006,CT006,0.34,"Skin Rash, Fatigue",High
+O007,T007,CT007,0.22,"Dizziness, Weakness",Low
+O008,T008,CT008,0.44,"Headaches, Hair Loss",High
+O009,T009,CT009,0.85,"Nausea, Weakness",Moderate
+O010,T010,CT010,0.15,"Fatigue, Nausea",Moderate
+O011,T011,CT011,0.72,"Skin Rash, Dizziness",Low
+O012,T012,CT012,0.86,"Nausea, Hair Loss",Moderate
+O013,T013,CT013,0.44,"Dizziness, Nausea",Moderate
+O014,T014,CT014,0.12,"Fatigue, Pain",Moderate
+O015,T015,CT015,0.68,"Headaches, Nausea",High
+O016,T016,CT016,0.38,"Weakness, Dizziness",High
+O017,T017,CT017,0.39,"Fatigue, Pain",High
+O018,T018,CT018,0.38,"Nausea, Skin Rash",High
+O019,T019,CT019,0.11,"Hair Loss, Fatigue",High
+O020,T020,CT020,0.76,"Nausea, Fatigue",High
+O021,T021,CT021,0.58,"Dizziness, Nausea",High
+O022,T022,CT022,0.27,"Pain, Weakness",High
+O023,T023,CT023,0.63,"Hair Loss, Pain",Low
+O024,T024,CT024,0.85,"Fatigue, Headaches",High
+O025,T025,CT025,0.7,"Fatigue, Dizziness",Moderate
+O026,T026,CT026,0.4,"Headaches, Fatigue",High
+O027,T027,CT027,0.85,"Pain, Skin Rash",High
+O028,T028,CT028,0.79,"Weakness, Fatigue",High
+O029,T029,CT029,0.46,"Nausea, Insomnia",Moderate
+O030,T030,CT030,0.38,"Fatigue, Headaches",Moderate

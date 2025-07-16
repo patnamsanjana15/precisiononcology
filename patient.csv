@@ -1,0 +1,31 @@
+patient_id,name,age,gender,contact_info,diagnosis_date,classification
+P001,Norma Fisher,50,Female,ysullivan@yahoo.com,2024-04-16,Adult
+P002,Steven Robinson,17,Female,donald19@archer-patel.org,2025-03-12,Pediatric
+P003,Brett Jones,15,Female,wcastro@yahoo.com,2023-12-13,Pediatric
+P004,Susan Levy,75,Male,qgrimes@gmail.com,2024-12-27,Adult
+P005,Sydney Davis,37,Male,salazarmaria@yahoo.com,2023-10-18,Adult
+P006,Michele Brown,80,Female,lindathomas@west.net,2025-04-05,Adult
+P007,Eric Carter Jr.,40,Male,tamaramorrison@hotmail.com,2023-11-21,Adult
+P008,Kyle Cruz,11,Female,ivan20@zavala.com,2025-02-21,Pediatric
+P009,Andrew Miller,12,Male,aimee33@hotmail.com,2024-07-13,Pediatric
+P010,Jennifer Hill,56,Female,christopher91@yahoo.com,2024-07-10,Adult
+P011,Sarah Sanchez,14,Female,thorntonnathan@gmail.com,2023-12-26,Pediatric
+P012,Antonio Logan,67,Female,montoyacynthia@guzman.com,2024-07-25,Adult
+P013,Barbara Davis,71,Male,jacobsjames@robbins.com,2024-10-27,Adult
+P014,Taylor Johnson,10,Male,huffchad@gmail.com,2024-08-26,Pediatric
+P015,Jeffrey Brown,17,Male,carlsonholly@yahoo.com,2023-09-13,Pediatric
+P016,Tanner Harrison,9,Male,tammybrown@moore.com,2024-07-18,Adult
+P017,Mary Smith,10,Male,deborah64@gmail.com,2024-06-20,Pediatric
+P018,Judith Miller,11,Male,dennis75@roberts.org,2023-07-23,Pediatric
+P019,Jasmine Perry,66,Female,wheelerholly@allen.info,2024-01-31,Adult
+P020,Megan Baxter,39,Female,ksavage@barton-fletcher.com,2024-03-22,Adult
+P021,Michael Griffin,71,Female,hensontroy@yahoo.com,2025-01-21,Adult
+P022,Robert Golden,13,Female,amymccarty@gmail.com,2025-01-21,Pediatric
+P023,Victoria Morales,17,Female,aaron00@hotmail.com,2024-05-26,Pediatric
+P024,Cheryl Franklin,10,Male,joshua21@nash-sanders.com,2023-04-28,Pediatric
+P025,Jesse Sparks,24,Male,desireeroth@hotmail.com,2024-01-06,Adult
+P026,Christopher York,10,Female,harrisjordan@potts-mays.com,2025-01-28,Pediatric
+P027,Meredith Rios,9,Male,iwatson@gmail.com,2023-09-20,Adult
+P028,Eddie Taylor,20,Male,matthew51@yahoo.com,2024-12-07,Adult
+P029,Amanda Martin,14,Female,ralph82@yahoo.com,2023-07-10,Pediatric
+P030,David Williams,67,Male,turnermary@perry-garcia.info,2024-04-14,Adult

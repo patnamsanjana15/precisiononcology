@@ -1,0 +1,31 @@
+image_id,patient_id,image_type,image_size,texture,intensity,findings
+I001,P013,MRI,333MB,Rough,Low,Lesion detected in the left hemisphere.
+I002,P016,X-Ray,286MB,Smooth,Low,Fracture observed in the tibia.
+I003,P007,MRI,281MB,Soft,Medium,Tumor detected in the lung region.
+I004,P017,CT,260MB,Smooth,Medium,Enlarged lymph nodes noted in the abdominal region.
+I005,P022,MRI,206MB,Rough,Low,"Mass detected in the left breast, benign."
+I006,P014,X-Ray,460MB,Rough,Low,"Cysts found in the right kidney, no signs of malignancy."
+I007,P012,CT,328MB,Soft,Low,Small brain hemorrhage observed in the frontal lobe.
+I008,P023,MRI,434MB,Smooth,High,Scoliosis detected in the lower spine.
+I009,P011,X-Ray,223MB,Smooth,Medium,Collapsed lung detected in the right side.
+I010,P005,MRI,446MB,Rough,Low,Calcification observed in the coronary arteries.
+I011,P010,X-Ray,383MB,Smooth,Low,"Liver enlargement detected, possible fatty liver."
+I012,P028,X-Ray,267MB,Smooth,Medium,Severe osteoarthritis detected in the knee joint.
+I013,P013,X-Ray,412MB,Smooth,High,Deterioration of the femur bone observed.
+I014,P001,X-Ray,298MB,Smooth,Medium,Lung consolidation detected in the lower left lobe.
+I015,P006,MRI,314MB,Smooth,Medium,Chronic sinusitis observed in the nasal cavity.
+I016,P013,X-Ray,490MB,Rough,High,Fractured rib detected on the left side.
+I017,P013,X-Ray,490MB,Rough,Low,No abnormalities observed in the pelvis area.
+I018,P023,MRI,284MB,Rough,High,Normal brain structure observed with no signs of tumors.
+I019,P009,X-Ray,280MB,Rough,Low,"Minor heart enlargement, no acute signs of failure."
+I020,P029,CT,487MB,Smooth,High,Spinal cord compression detected at the L3 vertebra.
+I021,P029,MRI,453MB,Rough,Medium,"Normal density in the abdominal region, no tumors."
+I022,P027,CT,225MB,Rough,High,Absence of fractures in the cervical spine.
+I023,P018,X-Ray,242MB,Smooth,High,"Aortic aneurysm detected, requires monitoring."
+I024,P001,CT,413MB,Rough,High,Mild swelling observed in the lower extremities.
+I025,P007,MRI,201MB,Smooth,Low,"No lung mass detected, clear airways observed."
+I026,P020,MRI,297MB,Soft,Low,Potential early-stage glaucoma detected in the right eye.
+I027,P021,MRI,354MB,Rough,Low,Renal stones detected in the left kidney.
+I028,P006,MRI,443MB,Rough,Low,"Dislocated shoulder detected, soft tissue injury observed."
+I029,P003,MRI,340MB,Rough,High,Multiple sclerosis lesions observed in the brain.
+I030,P028,CT,268MB,Smooth,Low,Mild inflammation observed in the left shoulder joint.
